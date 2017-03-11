@@ -1,6 +1,6 @@
-Project Manager : BurakAtılı \n
-Architect and Tester: Taylan İLKYAZ \n
-Developer: Muhammet ÖZTÜRK \n
+Project Manager : BurakAtılı__
+Architect and Tester: Taylan İLKYAZ __
+Developer: Muhammet ÖZTÜRK __
 
 
 ACADEMIC INTEGRITY
