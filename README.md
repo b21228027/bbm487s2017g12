@@ -1,8 +1,8 @@
-Project Manager : BurakAtılı__
-Architect and Tester: Taylan İLKYAZ__
-Developer: Muhammet ÖZTÜRK__
+Project Manager : BurakAtılı <br />
+Architect and Tester: Taylan İLKYAZ <br />
+Developer: Muhammet ÖZTÜRK<br />
 
-
+----<br />
 ACADEMIC INTEGRITY
 
 The Department of Computer Science believes that academic integrity is a core principle of education. According to the Center for Academic Integrity (www.academicintegrity.org), academic integrity begins as a commitment to five fundamental values: honesty, trust, fairness, respect and responsibility. These values begin with the individual and extend to others in the community of learning. In the classroom, they give rise to the following concrete but non-exhaustive rules for student behavior:
@@ -19,3 +19,4 @@ During an exam, students must not communicate in any way, nor use any materials 
 A student may not attempt to gain possession of or look at an exam before the start of the exam.
 
 Disciplinary actions can vary in severity and can result in probation or termination from the program. See the CAS page on academic integrity for more information.
+------<br />
